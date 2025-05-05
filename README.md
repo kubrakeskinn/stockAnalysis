@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BIST100 Canlı Takip ve Teknik Analiz Uygulaması
 
 Bu uygulama, BIST100 hisselerini canlı olarak izleyip teknik analiz göstergeleriyle birlikte takip etmenizi sağlar. Kullanıcılar favori sembollerini ekleyebilir, teknik analiz indikatörlerini görebilir ve canlı fiyat güncellemelerini takip edebilir.
@@ -56,3 +57,4 @@ docker-compose up --build
 ## Notlar
 - API anahtarınızı `.env` dosyasına eklemeyi unutmayın.
 - Teknik analiz için pandas_ta veya TA-Lib kullanılmaktadır. 
+
