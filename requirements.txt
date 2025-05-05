@@ -1,0 +1,13 @@
+Flask
+Flask-SQLAlchemy
+Flask-SocketIO
+python-dotenv
+requests
+pandas
+talib
+pandas_ta
+python-socketio
+flask-cors
+pytest
+python-dotenv
+chart.js # frontend için, açıklama olarak bırakıyorum 

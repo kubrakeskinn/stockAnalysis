@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    env_file:
+      - .env
+    volumes:
+      - .:/code
+    depends_on:
+      - db
+  db:
+    image: nouchka/sqlite3:latest
+    volumes:
+      - ./data:/data
+    command: tail -f /dev/null # SQLite için dummy servis 
