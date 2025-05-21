@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BIST100 Canlı Takip ve Teknik Analiz Uygulaması
 
 Bu uygulama, BIST100 hisselerini canlı olarak izleyip teknik analiz göstergeleriyle birlikte takip etmenizi sağlar. Kullanıcılar favori sembollerini ekleyebilir, teknik analiz indikatörlerini görebilir ve canlı fiyat güncellemelerini takip edebilir.
